@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the jungle :wave:</h1>
 <p>Ola, satisfação.</p>
-<p>Eu sou Wender Afonso, desde 23 de Junho de 13!</p>
+<p>Eu sou Wender Afonso, desde 23 de Junho de 83!</p>
 
 <p>Sou desenvolvedor Full Stack, Gestor de Projetos T.I e Web, Especialista Ecommerce, Consultor especialista Excel</p>
 
