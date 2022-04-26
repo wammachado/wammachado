@@ -8,6 +8,7 @@
 
 <ul>
   <li>Bacharel em Administração com especialidade em Marketing!</li>
+  <li>Bacharel em Ciências da computação!</li>
   <li>Certificação Google ADS</li>
   <li>Certificação Borland(Micro Focus) Java</li>
 </ul>
