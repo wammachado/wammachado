@@ -22,7 +22,7 @@
 
 <table>
   <tr>    
-  <td>
+  <td valign="top" width="33%">
     acasadasmassas.com.br  
     bardaspatroas.com.br
     burgerforyou.com.br
@@ -35,7 +35,7 @@
     tacacheia.com
     dezemhum.com.br
   </td>
-  <td>
+  <td valign="top" width="33%">
     iluxxx.com.br
     loiraobar.com.br
     novitaalimentacao.com.br
@@ -46,8 +46,9 @@
     rastremat.com.br
     rbquality.com.br
     restaurantecarlini.com.br
-    ferri.com.br</td>
-  <td>
+    ferri.com.br
+  </td>
+  <td valign="top" width="33%">
     dzh.com.br
     sonhodosmoveis.com.br
     supracucina.com.br
@@ -58,8 +59,7 @@
     camaleaovirtual.com.br
     camaleaovirtual.com.br/camal-petshop
   </td>
-  </tr>
-  
+  </tr>  
 </table>  
 
 <br/>  
