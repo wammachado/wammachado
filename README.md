@@ -28,12 +28,12 @@
     www.burgerforyou.com.br
     www.cantinaelmariachi.com.br
     www.finderit.com.br
-    formatoagencia.com.br
-    ftime.com.br
-    instinto.multilojas.co.mz
-    multilojas.co.mz/oc
-    tacacheia.com
-    dezemhum.com.br
+    www.formatoagencia.com.br
+    www.ftime.com.br
+    www.instinto.multilojas.co.mz
+    www.multilojas.co.mz/oc
+    www.tacacheia.com
+    www.dezemhum.com.br
   </td>
   <td valign="top" width="33%">
     iluxxx.com.br
