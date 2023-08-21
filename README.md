@@ -23,11 +23,11 @@
 <table>
   <tr>    
   <td valign="top" width="33%">
-    acasadasmassas.com.br  
-    bardaspatroas.com.br
-    burgerforyou.com.br
-    cantinaelmariachi.com.br
-    finderit.com.br
+    www.acasadasmassas.com.br
+    www.bardaspatroas.com.br
+    www.burgerforyou.com.br
+    www.cantinaelmariachi.com.br
+    www.finderit.com.br
     formatoagencia.com.br
     ftime.com.br
     instinto.multilojas.co.mz
