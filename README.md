@@ -15,8 +15,52 @@
 - ❓ Ask me about anything related to web project management and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
+
+- Portfolios:
+
+<table>
+  <tr>    
+  <td>
+    acasadasmassas.com.br  
+    bardaspatroas.com.br
+    burgerforyou.com.br
+    cantinaelmariachi.com.br
+    finderit.com.br
+    formatoagencia.com.br
+    ftime.com.br
+    instinto.multilojas.co.mz
+    multilojas.co.mz/oc
+    tacacheia.com
+    dezemhum.com.br
+  </td>
+  <td>
+    iluxxx.com.br
+    loiraobar.com.br
+    novitaalimentacao.com.br
+    omineiroprime.com.br
+    portucho.com.br
+    prozpromo.com.br
+    quickpizza.com.br
+    rastremat.com.br
+    rbquality.com.br
+    restaurantecarlini.com.br
+    ferri.com.br</td>
+  <td>
+    dzh.com.br
+    sonhodosmoveis.com.br
+    supracucina.com.br
+    villaangelica.com.br
+    www.premiercapital.com.br
+    xlturbo.com.br
+    zitereza.com.br
+    camaleaovirtual.com.br
+    camaleaovirtual.com.br/camal-petshop
+  </td>
+  </tr>
   
+</table>  
 
 <br/>  
 
