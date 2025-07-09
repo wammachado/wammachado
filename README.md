@@ -18,52 +18,6 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 
-- Portfolios:
-
-<table>
-  <tr>    
-  <td valign="top" width="33%">
-    www.acasadasmassas.com.br
-    www.bardaspatroas.com.br
-    www.burgerforyou.com.br
-    www.cantinaelmariachi.com.br
-    www.finderit.com.br
-    www.formatoagencia.com.br
-    www.ftime.com.br
-    www.instinto.multilojas.co.mz
-    www.multilojas.co.mz/oc
-    www.tacacheia.com
-    www.dezemhum.com.br
-  </td>
-  <td valign="top" width="33%">
-    www.iluxxx.com.br
-    www.loiraobar.com.br
-    www.novitaalimentacao.com.br
-    www.omineiroprime.com.br
-    www.portucho.com.br
-    www.prozpromo.com.br
-    www.quickpizza.com.br
-    www.rastremat.com.br
-    www.rbquality.com.br
-    www.restaurantecarlini.com.br
-    www.ferri.com.br
-  </td>
-  <td valign="top" width="33%">
-    www.dzh.com.br
-    www.sonhodosmoveis.com.br
-    www.supracucina.com.br
-    www.villaangelica.com.br
-    www.premiercapital.com.br
-    www.xlturbo.com.br
-    www.zitereza.com.br
-    www.camaleaovirtual.com.br
-    www.camaleaovirtual.com.br/camal-petshop
-    www.fullerp.com.br
-    www.fulltimechat.com.br
-  </td>
-  </tr>  
-</table>  
-
 <br/>  
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/wammachado/wammachado/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/wammachado/wammachado/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -179,8 +133,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wammachado&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=wammachado&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wammachado&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 <br/>  
 
 
@@ -191,19 +152,15 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=x4wn9zxv353aj2ht5tszymk2h&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=wammachado&&style=flat-square" align="center" />
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33169">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=wammachado&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-<div align="center"></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
